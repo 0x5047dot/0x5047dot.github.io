@@ -1,13 +1,13 @@
-This is a tentative roadmap for a career in AI Engineering (21-05.2026):
+This is a tentative roadmap for a career in AI Engineering (21-05.2026): <br>
 (Work in progress roadmap...)
 
 ## Basics:
 - Machine Learning: [https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 - Deep Learning: [https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 
-✍️ Need not attain expertise in implementing every single algorithm, but one should know have at least an overview idea of the underlying principles of these models. It is crucial to understand
-the pros and cons of using different models (architectures) in different scenarios. This can be achieved by extensively practicing on platforms such as [Kaggle](https://www.kaggle.com/).
-✍️ One must try to implement all classical ML models from scratch, experience the very essence of mathematics that defines them. Once this is mastered, one can move to understanding how 
+✍️ Need not attain expertise in implementing every single algorithm, but one should know have at least an overview idea of the underlying principles of these models. It is crucial to understand <br>
+the pros and cons of using different models (architectures) in different scenarios. This can be achieved by extensively practicing on platforms such as [Kaggle](https://www.kaggle.com/). <br>
+✍️ One must try to implement all classical ML models from scratch, experience the very essence of mathematics that defines them. Once this is mastered, one can move to understanding how <br>
 neural nets work, starting with the very need of more complex networks.
 
 ✨ For AI engineering specifically, if one wants to fastrack this roadmap, they can considering skipping some models initially: 
@@ -41,6 +41,6 @@ Pick a framework- Langchain, autogen, crewAI, SMOL Agents, agno
 ---
 
 ## Disclaimer
-This roadmap is a very practical one, and is based on my experiences and understanding, people are free, (infact encouraged 😃) to differ upon different aspects of it. 
-Your input will help improve upon the roadmap, thus helping everyone!
+This roadmap is a very practical one, and is based on my experiences and understanding, people are free, (infact encouraged 😃) to differ upon different aspects of it. <br>
+Your input will help improve upon the roadmap, thus helping everyone! <br>
 Happy Hustling! ❤️
